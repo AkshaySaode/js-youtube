@@ -9,7 +9,7 @@ let isLoggedIn = true
 
 //null => standalone value
 //undefined => value not yet assigned
-// symbol => to find the uniqueness
+//symbol => to find the uniqueness
 
 //object =>
 
