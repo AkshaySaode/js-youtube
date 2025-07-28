@@ -43,3 +43,32 @@
 
 // Refrence Type:- (Non-prmitive)
     // Array, Objects, Functions
+
+
+    // ************************Memories***************************
+
+    //Stack & Heap
+
+    //Stack(Primitive), Heap(Non-Primitive)
+
+    let myYoutubename = "akshaysaode"
+
+    let anothername = myYoutubename
+    anothername = "chaiaurcode"
+
+    console.log(myYoutubename);
+    console.log(anothername);
+
+    let userOne = {
+        email: "user@google.com",
+        upi: "user@ybl"
+    }
+    
+    let userTwo = userOne
+
+    userTwo.email = "akshaysaode@google.com"
+
+    console.log(userOne.email);
+    console.log(userTwo.email);
+    
+    
